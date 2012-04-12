@@ -126,16 +126,15 @@
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \renewcommand{\sectionmark}[1]{\markright{#1}{}}
 \fancyhf{}
-\fancyhead[L]{\sffamily\bfseries ExLat}
-%\fancyhead[L]{\sffamily\bfseries\thepage}
-\fancyhead[R]{\sffamily\bfseries \textsl {Mini Project Report 2012}}
+\fancyhead[L]{\footnotesize{ExLat}}
+\fancyhead[R]{\footnotesize{\textsl {Mini Project Report 2012}}}
 
 %\fancyhead[]{\sffamily\bfseries\leftmark}
 \fancyfoot{}
 %\fancyfoot[R]{\sffamily\bfseries Automatic License Plate Recognition}
-\fancyfoot[R]{\sffamily\bfseries MESCE, Kuttippuram}
-\fancyfoot[L]{\sffamily\bfseries Department of IT}
-\fancyfoot[C]{\sffamily\bfseries\thepage}
+\fancyfoot[R]{\footnotesize{MESCE, Kuttippuram}}
+\fancyfoot[L]{\footnotesize{Department of IT}}
+\fancyfoot[C]{\thepage}
 \fancypagestyle{plain}{%
   \fancyhead{} % get rid of headers
   \renewcommand{\headrulewidth}{0pt} % and the head line
