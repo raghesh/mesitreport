@@ -252,22 +252,31 @@
 \special{ps: gsave .7 setgray}%
 \noindent\rule{\hsize}{1.2pt}
 \special{ps: grestore}\\
-\center{Project Group VI, 2012}\\[3mm]
-\center{Swathy V S, Hasna, Salin Rosna T V, Sonima}\linebreak 
-\center{\textbf{Guided By:}}\linebreak{Mr. Raghesh A}\linebreak \fontsize{8}{9}{Asst. Professor}\linebreak\fontsize{8}{9}{Department of IT}
-% {\fontsize{8}{10}\usefont{T1}{phv}{mc}{n}\selectfont%
-%   \hfill\hbox{}\llap{Revision \RCSRevision}}\\[-9mm]
-
-% {\fontsize{8}{10}\usefont{T1}{phv}{mc}{n}\selectfont%
- %  \hfill\hbox{}\llap{\RCSDate}}
-\vspace*{0.75in}
-\centerline{\includegraphics[scale=0.75]{mes1.eps}}
-
+\center{
+\emph{A Project report\\
+submitted in partial fulfilment of\\
+the requirements for the award of the degree of}
+}\\[1.5mm]
+\center{
+\textbf{\emph{Bachelor of Technology}}\\
+\emph{in}\\
+\textbf{\emph{Information Technology}}
+}\\[8mm]
+\center{\emph{by}}\\[8mm]
+\center{Swathy V S\\Hasna\\Salin Rosna T V\\Sonima}\\[8mm]
+\centerline{\includegraphics[scale=0.75]{mes.eps}}
+\center{
+Department of Information Technology\\
+(NBA Accredited)
+}
 \vfill
-{\fontsize{10}{10}\usefont{T1}{ppl}{mm}{n}\selectfont%
-\hfill\hbox{}{\scshape \center MES College of Engineering}\\[-9mm]
-\hfill\hbox{}{\center Department of Information Technology}\\[-12.5mm]
-%\hfill\hbox{}\llap{\scshape Department of Medical Informatics}
+{\fontsize{10}{10}\usefont{T1}{ppl}{mm}{n}\selectfont
+\hfill\hbox{}
+{\center
+\textbf{MES College of Engineering}\\
+(ISO 9001:2008 Certified Institution, Affiliated to University of Calicut)\\
+Thrikkanapuram PO, Malappuram, Dt, Kerala - 679573\\
+2009 - 13}\\[-20mm]
 }
 \special{ps: gsave .7 setgray}%
 \noindent\rule{\hsize}{2pt}
